@@ -27,8 +27,9 @@ And of course this app itself is open source with a [public repository][Kamo] on
 
 ## Run
 
-Dillinger requires [IISExpress](https://www.microsoft.com/en-us/download/details.aspx?id=48264) or any similar application server to run.
+This app requires [IISExpress](https://www.microsoft.com/en-us/download/details.aspx?id=48264) or any similar application server to run.
 
+For locally test purpose, before run change the database connection string in main project and test project.
 
 ```sh
 dotnet build
