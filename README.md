@@ -43,7 +43,7 @@ This are the NuGet packages used into the application
 | ------ | ------ |
 | Mapper | [AutoMapper/blob/master/README.md][Mapper] |
 | Linkit | [LINQKit/blob/master/README.md][Linkit] |
-| EF Core | [/efcore/blob/main/README.md][EFCore] |
+| EF Core | [efcore/blob/main/README.md][EFCore] |
 
 ## License
 
